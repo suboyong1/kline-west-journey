@@ -1,6 +1,10 @@
-# kline-west-journey
+# K-Line West Journey (K线西游战法)
 
-K-line West Journey Trading Method - 367-page Trading Book Resources
+**367-page Trading Strategy Book**
+
+📖 [View on Google Drive](https://drive.google.com/file/d/1tW0lpAEn1_UoSjH8laTpJs6JLcpm6FRl/view?usp=drive_link)
+
+A comprehensive trading methodology covering K-line patterns, market analysis, and practical trading strategies.
 
 ## 🌐 Links
 
