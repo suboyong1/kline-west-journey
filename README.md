@@ -1,13 +1,13 @@
 # kline-west-journey
 
-K线西游战法 - 367页交易专著配套资源
+K-line West Journey Trading Method - 367-page Trading Book Resources
 
-## 🌐 访问链接
+## 🌐 Links
 
-👉 **实时工具：** https://topranker.xyz
+👉 **Live Tool:** https://topranker.xyz
 
-👉 **返佣注册：** https://www.bsmkweb.cc/register?ref=KXXYZF1
+👉 **Rebate Register:** https://www.bsmkweb.cc/register?ref=KXXYZF1
 
 ---
 
-*免责声明：本项目仅供学习研究，不构成投资建议。*
+*Disclaimer: For learning and research only, not investment advice.*
